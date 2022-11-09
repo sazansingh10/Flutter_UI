@@ -41,7 +41,7 @@ class _SignInPageState extends State<SignInPage> {
           ),
           ElevatedButton(
             onPressed: () {
-              print('y0u hurt me');
+              print('you hurt me');
             },
             child: Text(
               'Sign in with google',
